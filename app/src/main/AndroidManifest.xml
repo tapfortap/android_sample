@@ -17,6 +17,15 @@
             </intent-filter>
 
         </activity>
+
+        <meta-data
+            android:name="mediabrixAppID"
+            android:value="qXDpTFlISq"/>
+
+        <meta-data
+            android:name="mediabrixProperty"
+            android:value="pretio_pretioqa_mobile"/>
+
     </application>
 
 </manifest>
