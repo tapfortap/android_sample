@@ -66,6 +66,12 @@ packagingOptions {
 <uses-permission android:name="com.tapfortap.sdk.permission.C2D_MESSAGE" />
 ```
 
+- Set `com.tapfortap.API_KEY` in your AndroidManifest.xml to your Tap for Tap API Key, inside the `<application>` tag:
+
+```xml
+<meta-data android:name="com.tapfortap.API_KEY" android:value="3d323e6d58c83e06dba2547ec54f8afc"/>
+```
+
 - Set `mediabrixAppID` in your AndroidManifest.xml to the MediaBrix app ID that was provided to you:
 
 ```xml

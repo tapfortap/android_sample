@@ -19,6 +19,10 @@
         </activity>
 
         <meta-data
+            android:name="com.tapfortap.API_KEY"
+            android:value="3d323e6d58c83e06dba2547ec54f8afc"/>
+
+        <meta-data
             android:name="mediabrixAppID"
             android:value="qXDpTFlISq"/>
 
